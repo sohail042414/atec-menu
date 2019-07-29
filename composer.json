@@ -1,0 +1,16 @@
+{
+    "name": "sohail042414/atec-menu",
+    "description": "",
+    "keywords": ["wordpress", "plugin"],
+    "homepage": "https://github.com/sohail042414/atec-menu",
+    "authors": [
+      {
+        "name": "Original Plugin Author's Name",
+        "homepage": "https://www.megamenu.com/"
+      }
+    ],
+    "type": "wordpress-plugin",
+    "require": {
+      "php": ">=5.6"
+    }
+  }
